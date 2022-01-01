@@ -1,0 +1,1 @@
+DeviceID1937dc51f24e60c8ManufacturerXiaomiModelM2102J20SGHostUbuntu-x64Productvayu_globalAndroidVersion11HardwareqcomFingerprintPOCO/vayu_global/vayu:11/RKQ1.200826.002/V12.5.4.0.RJUMIXM:user/release-keys
